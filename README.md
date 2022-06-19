@@ -1,5 +1,5 @@
 <p>
-  <h2 align="Center">Contributor</h2>
+  <h2 align="Center">Introduction</h2>
 </p>
 
 Hi,
