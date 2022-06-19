@@ -2,7 +2,7 @@
   <h2 align="Center">Introduction</h2>
 </p>
 
-Hi,
+Hi,<br />
 I am a software engineer, primarilly interested in autonomous vehicles and associated technologies. <br />
 I graduated 2021 from the Computer Science program at Linköping University with a Master's degree in AI and machine learning.<br />
 Currently, I am working at Toyota Material Handling with development of autonomous warehouse trucks.
